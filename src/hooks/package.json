@@ -1,0 +1,34 @@
+{
+  "name": "@mehtarishabh/intersection-observer-array",
+  "version": "1.0.1",
+  "description": "It is a hook which accepts array of refs and observe them for intersection.",
+  "main": "useElementOnScreen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehtarishabh/intersection-observer-array.git"
+  },
+  "author": "Rishabh Mehta",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "hooks",
+    "viewport",
+    "intersection",
+    "observer",
+    "lazy load",
+    "inview",
+    "useInView",
+    "useIntersectionObserver"
+  ], 
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
